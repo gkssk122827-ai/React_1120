@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/unicrazynail/static/css/main.52bee272.css",
-    "main.js": "/unicrazynail/static/js/main.2c9a7eda.js",
+    "main.js": "/unicrazynail/static/js/main.69c02b61.js",
     "static/js/453.7d491c0f.chunk.js": "/unicrazynail/static/js/453.7d491c0f.chunk.js",
     "static/media/KakaoTalk_20251211_162844584_01.jpg": "/unicrazynail/static/media/KakaoTalk_20251211_162844584_01.8e07d21cf162073412cc.jpg",
     "static/media/logo.svg": "/unicrazynail/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/unicrazynail/index.html",
     "main.52bee272.css.map": "/unicrazynail/static/css/main.52bee272.css.map",
-    "main.2c9a7eda.js.map": "/unicrazynail/static/js/main.2c9a7eda.js.map",
+    "main.69c02b61.js.map": "/unicrazynail/static/js/main.69c02b61.js.map",
     "453.7d491c0f.chunk.js.map": "/unicrazynail/static/js/453.7d491c0f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.52bee272.css",
-    "static/js/main.2c9a7eda.js"
+    "static/js/main.69c02b61.js"
   ]
 }
